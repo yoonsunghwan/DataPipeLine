@@ -15,7 +15,7 @@ The source data resides in S3 and needs to be processed in Sparkify's data wareh
 ------------------------
 The data is located in the following s3 buckets.  
 
-> Log data: s3://udacity-dend/log_data
+> Log data: s3://udacity-dend/log_data   
 > Song data: s3://udacity-dend/song_data   
 
 
